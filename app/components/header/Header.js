@@ -5,7 +5,7 @@ import HeroSection from './HeroSection'
 const Header = () => {
   return (
     <header id="home">
-        <div class="container">
+        <div className="container">
             <Nav />
             <HeroSection />
         </div>
